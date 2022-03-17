@@ -110,7 +110,6 @@ body {
       -ms-flex-align: center;
           align-items: center;
   margin: 0 auto;
-  max-width: 1190px;
 }
 .navbar .nav__content ul li {
   list-style: none;
